@@ -1,0 +1,51 @@
+
+
+header{
+	
+	width: 100%;
+	height: 30px;
+	padding-top:20px;
+	padding-bottom:50px;
+	color:orange;
+	background-color: #ecf0f1;
+	text-align: center;
+	font-size: 30px;
+}
+
+#bage-body{
+	width: 100%;
+	height: 900px;
+	margin:0%;
+	padding-top: 10px;
+	text-align: center;
+	color:#37474F;
+	background-color: #009688
+}
+	
+
+#amr-img{
+	padding: 3%;
+float: left; 
+color: white;
+}
+
+
+#nour-img{
+	float: right;
+	padding: 3%;
+	color: white;
+}
+
+#nasr-img{
+	color:white;
+}
+
+#footer{
+	height: 50px;
+	text-align: center;
+	color:#37474F;
+	background-color: #ecf0f1;
+	padding-top:10px;
+
+}
+
